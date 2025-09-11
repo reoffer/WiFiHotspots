@@ -1,0 +1,3882 @@
+.elementor-44033 .elementor-element.elementor-element-fbae815 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --align-items: stretch;
+    --background-transition: 0.3s;
+    --overlay-opacity: 0.5;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 1px 0px 1px 0px;
+    --border-top-width: 1px;
+    --border-right-width: 0px;
+    --border-bottom-width: 1px;
+    --border-left-width: 0px;
+    --border-radius: 1px 0px 0px 0px;
+    --padding-top: 10px;
+    --padding-bottom: 10px;
+    --padding-left: 10px;
+    --padding-right: 10px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-fbae815:not(.elementor-motion-effects-element-type-background), .elementor-44033 .elementor-element.elementor-element-fbae815 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #302F2F;
+    background-position: center center;
+    background-size: cover;
+}
+
+.elementor-44033 .elementor-element.elementor-element-fbae815::before, .elementor-44033 .elementor-element.elementor-element-fbae815 > .elementor-background-video-container::before, .elementor-44033 .elementor-element.elementor-element-fbae815 > .e-con-inner > .elementor-background-video-container::before, .elementor-44033 .elementor-element.elementor-element-fbae815 > .elementor-background-slideshow::before, .elementor-44033 .elementor-element.elementor-element-fbae815 > .e-con-inner > .elementor-background-slideshow::before, .elementor-44033 .elementor-element.elementor-element-fbae815 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
+    background-color: #182229;
+    --background-overlay: '';
+}
+
+.elementor-44033 .elementor-element.elementor-element-fbae815, .elementor-44033 .elementor-element.elementor-element-fbae815::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-789d9fc {
+    --display: flex;
+    --flex-wrap: wrap;
+    --background-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-ca254d7 {
+    width: var( --container-widget-width, 83% );
+    max-width: 83%;
+    --container-widget-width: 83%;
+    --container-widget-flex-grow: 0;
+    z-index: 0;
+}
+
+.elementor-44033 .elementor-element.elementor-element-ca254d7 > .elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-ca254d7 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.elementor-44033 .elementor-element.elementor-element-debe2fa {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+    --padding-top: 10px;
+    --padding-bottom: 10px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-6da8b07 > .elementor-widget-container {
+    margin: 4px 5px 0px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-6da8b07 .elementor-icon-wrapper {
+    text-align: center;
+}
+
+.elementor-44033 .elementor-element.elementor-element-6da8b07.elementor-view-stacked .elementor-icon {
+    background-color: #76BF00;
+}
+
+.elementor-44033 .elementor-element.elementor-element-6da8b07.elementor-view-framed .elementor-icon, .elementor-44033 .elementor-element.elementor-element-6da8b07.elementor-view-default .elementor-icon {
+    color: #76BF00;
+    border-color: #76BF00;
+}
+
+.elementor-44033 .elementor-element.elementor-element-6da8b07.elementor-view-framed .elementor-icon, .elementor-44033 .elementor-element.elementor-element-6da8b07.elementor-view-default .elementor-icon svg {
+    fill: #76BF00;
+}
+
+.elementor-44033 .elementor-element.elementor-element-6da8b07 .elementor-icon {
+    font-size: 17px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-6da8b07 .elementor-icon svg {
+    height: 17px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-2e149ed {
+    color: #FFFFFF;
+    font-size: 17px;
+}
+
+body:not(.rtl) .elementor-44033 .elementor-element.elementor-element-85c62d0 {
+    right: -60px;
+}
+
+body.rtl .elementor-44033 .elementor-element.elementor-element-85c62d0 {
+    left: -60px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-85c62d0 {
+    top: 24px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-85c62d0 img {
+    width: 175px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-2826b6a {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --align-items: stretch;
+    --background-transition: 0.3s;
+    --border-radius: 15px 15px 15px 15px;
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 25px;
+    --padding-bottom: 10px;
+    --padding-left: 10px;
+    --padding-right: 10px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-2826b6a:not(.elementor-motion-effects-element-type-background), .elementor-44033 .elementor-element.elementor-element-2826b6a > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #FAFAFA;
+}
+
+.elementor-44033 .elementor-element.elementor-element-2826b6a, .elementor-44033 .elementor-element.elementor-element-2826b6a::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-2826b6a.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-44033 .elementor-element.elementor-element-5bf5576 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-c790615 > .elementor-widget-container {
+    margin: 0px 0px 10px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-c790615 {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 19px;
+    line-height: 1.7em;
+}
+
+.elementor-44033 .elementor-element.elementor-element-574f63b {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 10px;
+    --padding-right: 10px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-574f63b:not(.elementor-motion-effects-element-type-background), .elementor-44033 .elementor-element.elementor-element-574f63b > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #FAFAFA;
+}
+
+.elementor-44033 .elementor-element.elementor-element-574f63b, .elementor-44033 .elementor-element.elementor-element-574f63b::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-7538678 {
+    width: 100%;
+    max-width: 100%;
+}
+
+.elementor-44033 .elementor-element.elementor-element-625b5a8 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-68e863c {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --align-items: flex-start;
+    --background-transition: 0.3s;
+    --padding-top: 0px;
+    --padding-bottom: 25px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-68e863c:not(.elementor-motion-effects-element-type-background), .elementor-44033 .elementor-element.elementor-element-68e863c > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #FAFAFA;
+}
+
+.elementor-44033 .elementor-element.elementor-element-68e863c, .elementor-44033 .elementor-element.elementor-element-68e863c::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-be10c9a {
+    --display: flex;
+    --justify-content: flex-start;
+    --background-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-df32c4c {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --align-items: stretch;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    --border-top-width: 2px;
+    --border-right-width: 2px;
+    --border-bottom-width: 2px;
+    --border-left-width: 2px;
+    border-color: #000000;
+    --border-color: #000000;
+    box-shadow: 0px 0px 10px 0px #8D8D8D;
+    --margin-top: 0px;
+    --margin-bottom: 25px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-df32c4c:not(.elementor-motion-effects-element-type-background), .elementor-44033 .elementor-element.elementor-element-df32c4c > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+}
+
+.elementor-44033 .elementor-element.elementor-element-df32c4c, .elementor-44033 .elementor-element.elementor-element-df32c4c::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-0a8254d {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-0f6c1a1 {
+    --spacer-size: 50px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-a9f9b97.elementor-element {
+    --align-self: center;
+}
+
+.elementor-44033 .elementor-element.elementor-element-9b05f33 > .elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-9b05f33 img {
+    width: 90%;
+    max-width: 312px;
+    transition-duration: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-ae16cc2 > .elementor-widget-container {
+    background-color: #000000;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 25px 0px 15px;
+    border-style: solid;
+    border-width: 0px 0px 1px 0px;
+    border-color: #333333;
+}
+
+.elementor-44033 .elementor-element.elementor-element-ae16cc2 {
+    color: #FFFFFF;
+    font-size: 20px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-30cac45 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 0px 1px 0px 1px;
+    --border-top-width: 0px;
+    --border-right-width: 1px;
+    --border-bottom-width: 0px;
+    --border-left-width: 1px;
+    border-color: #C1C1C1;
+    --border-color: #C1C1C1;
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-30cac45, .elementor-44033 .elementor-element.elementor-element-30cac45::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-30cac45.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-44033 .elementor-element.elementor-element-a5ff52e > .elementor-widget-container {
+    margin: 10px 0px 0px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-a5ff52e {
+    font-size: 18px;
+    line-height: 1.5em;
+}
+
+.elementor-44033 .elementor-element.elementor-element-5bddd4b {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 0px 1px 0px 0px;
+    --border-top-width: 0px;
+    --border-right-width: 1px;
+    --border-bottom-width: 0px;
+    --border-left-width: 0px;
+    border-color: #C1C1C1;
+    --border-color: #C1C1C1;
+    --border-radius: 0px 1px 0px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-5bddd4b, .elementor-44033 .elementor-element.elementor-element-5bddd4b::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-5bddd4b.e-con {
+    --align-self: stretch;
+}
+
+.elementor-44033 .elementor-element.elementor-element-1acef9b > .elementor-widget-container {
+    margin: 10px 0px 10px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-1acef9b {
+    text-align: center;
+    font-size: 22px;
+    text-transform: uppercase;
+}
+
+.elementor-44033 .elementor-element.elementor-element-3ea52cf > .elementor-widget-container {
+    margin: 10px 0px 15px 0px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-3ea52cf {
+    text-align: center;
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 60px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-cb938ca {
+    text-align: center;
+    font-size: 15px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-5d57340 {
+    width: 100%;
+    max-width: 100%;
+    align-self: center;
+    text-align: center;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.elementor-44033 .elementor-element.elementor-element-5d57340 > .elementor-widget-container {
+    background-color: #FFFFFF;
+}
+
+.elementor-44033 .elementor-element.elementor-element-2fd11f4 {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-2fd11f4.e-con {
+    --align-self: stretch;
+}
+
+.elementor-44033 .elementor-element.elementor-element-b683fad > .elementor-widget-container {
+    margin: 95px 0px 10px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-b683fad .eael-tooltip:hover .eael-tooltip-text.eael-tooltip-top {
+    animation-duration: 300ms;
+}
+
+.elementor-44033 .elementor-element.elementor-element-b683fad .eael-tooltip:hover .eael-tooltip-text.eael-tooltip-left {
+    animation-duration: 300ms;
+}
+
+.elementor-44033 .elementor-element.elementor-element-b683fad .eael-tooltip:hover .eael-tooltip-text.eael-tooltip-bottom {
+    animation-duration: 300ms;
+}
+
+.elementor-44033 .elementor-element.elementor-element-b683fad .eael-tooltip:hover .eael-tooltip-text.eael-tooltip-right {
+    animation-duration: 300ms;
+}
+
+.elementor-44033 .elementor-element.elementor-element-b683fad .eael-tooltip {
+    width: 100px;
+    background-color: #4CAF50;
+    color: #FFFFFF;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #B0B0B0;
+    font-size: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 20px;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-b683fad .eael-tooltip a {
+    color: #FFFFFF;
+}
+
+.elementor-44033 .elementor-element.elementor-element-b683fad .eael-tooltip svg {
+    fill: #FFFFFF;
+}
+
+.elementor-44033 .elementor-element.elementor-element-b683fad .eael-tooltip:hover {
+    background-color: #FFBE5D;
+    color: #FFFFFF;
+}
+
+.elementor-44033 .elementor-element.elementor-element-b683fad .eael-tooltip:hover a {
+    color: #FFFFFF;
+}
+
+.elementor-44033 .elementor-element.elementor-element-b683fad .eael-tooltip:hover svg {
+    fill: #FFFFFF;
+}
+
+.elementor-44033 .elementor-element.elementor-element-b683fad .eael-tooltip .eael-tooltip-text {
+    background-color: #E04545F2;
+    color: #fff;
+    font-weight: 600;
+}
+
+.elementor-44033 .elementor-element.elementor-element-b683fad .eael-tooltip .eael-tooltip-text:after {
+    border-width: 5px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-b683fad .eael-tooltip .eael-tooltip-text.eael-tooltip-left::after {
+    top: calc( 50% - 5px );
+}
+
+.elementor-44033 .elementor-element.elementor-element-b683fad .eael-tooltip .eael-tooltip-text.eael-tooltip-right::after {
+    top: calc( 50% - 5px );
+}
+
+.elementor-44033 .elementor-element.elementor-element-b683fad .eael-tooltip .eael-tooltip-text.eael-tooltip-top::after {
+    left: calc( 50% - 5px );
+}
+
+.elementor-44033 .elementor-element.elementor-element-b683fad .eael-tooltip .eael-tooltip-text.eael-tooltip-bottom::after {
+    left: calc( 50% - 5px );
+}
+
+.elementor-44033 .elementor-element.elementor-element-b683fad .eael-tooltip .eael-tooltip-text.eael-tooltip-top:after {
+    border-top-color: #E04545F2;
+}
+
+.elementor-44033 .elementor-element.elementor-element-b683fad .eael-tooltip .eael-tooltip-text.eael-tooltip-bottom:after {
+    border-bottom-color: #E04545F2;
+}
+
+.elementor-44033 .elementor-element.elementor-element-b683fad .eael-tooltip .eael-tooltip-text.eael-tooltip-left:after {
+    border-left-color: #E04545F2;
+}
+
+.elementor-44033 .elementor-element.elementor-element-b683fad .eael-tooltip .eael-tooltip-text.eael-tooltip-right:after {
+    border-right-color: #E04545F2;
+}
+
+.elementor-44033 .elementor-element.elementor-element-9275292 > .elementor-widget-container {
+    margin: 0px 0px 05px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-9275292.elementor-element {
+    --align-self: center;
+}
+
+.elementor-44033 .elementor-element.elementor-element-cdf2eb9 > .elementor-widget-container {
+    margin: 5px 0px 0px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-cdf2eb9 {
+    font-weight: 300;
+}
+
+.elementor-44033 .elementor-element.elementor-element-f08f5cb {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --align-items: stretch;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    --border-top-width: 2px;
+    --border-right-width: 2px;
+    --border-bottom-width: 2px;
+    --border-left-width: 2px;
+    border-color: #DDDDDD;
+    --border-color: #DDDDDD;
+    --margin-top: 0px;
+    --margin-bottom: 25px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-f08f5cb:not(.elementor-motion-effects-element-type-background), .elementor-44033 .elementor-element.elementor-element-f08f5cb > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+}
+
+.elementor-44033 .elementor-element.elementor-element-f08f5cb, .elementor-44033 .elementor-element.elementor-element-f08f5cb::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-f1768a1 {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-4afddfe > .elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-4afddfe.elementor-element {
+    --align-self: center;
+}
+
+.elementor-44033 .elementor-element.elementor-element-0707af4 > .elementor-widget-container {
+    margin: 0px 0px 5px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-0707af4 img {
+    width: 90%;
+    max-width: 100px;
+    transition-duration: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-9083ce6 > .elementor-widget-container {
+    background-color: #000000;
+}
+
+.elementor-44033 .elementor-element.elementor-element-9083ce6 {
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.elementor-44033 .elementor-element.elementor-element-2582ebc {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 0px 1px 0px 1px;
+    --border-top-width: 0px;
+    --border-right-width: 1px;
+    --border-bottom-width: 0px;
+    --border-left-width: 1px;
+    border-color: #C1C1C1;
+    --border-color: #C1C1C1;
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-2582ebc, .elementor-44033 .elementor-element.elementor-element-2582ebc::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-2582ebc.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-44033 .elementor-element.elementor-element-4987a6f > .elementor-widget-container {
+    margin: 10px 0px 0px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-4987a6f {
+    font-size: 18px;
+    line-height: 1.5em;
+}
+
+.elementor-44033 .elementor-element.elementor-element-0d0048b {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 0px 1px 0px 0px;
+    --border-top-width: 0px;
+    --border-right-width: 1px;
+    --border-bottom-width: 0px;
+    --border-left-width: 0px;
+    border-color: #C1C1C1;
+    --border-color: #C1C1C1;
+    --border-radius: 0px 1px 0px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-0d0048b, .elementor-44033 .elementor-element.elementor-element-0d0048b::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-0d0048b.e-con {
+    --align-self: stretch;
+}
+
+.elementor-44033 .elementor-element.elementor-element-e9d4ceb > .elementor-widget-container {
+    margin: 10px 0px 10px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-e9d4ceb {
+    text-align: center;
+    font-size: 22px;
+    text-transform: uppercase;
+}
+
+.elementor-44033 .elementor-element.elementor-element-eaa597b > .elementor-widget-container {
+    margin: 10px 0px 15px 0px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-eaa597b {
+    text-align: center;
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 60px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-d6a97be {
+    text-align: center;
+    font-size: 15px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-956b4c8 {
+    width: 100%;
+    max-width: 100%;
+    align-self: center;
+    text-align: center;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.elementor-44033 .elementor-element.elementor-element-956b4c8 > .elementor-widget-container {
+    background-color: #FFFFFF;
+}
+
+.elementor-44033 .elementor-element.elementor-element-1a7d75c {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-69c9e7e .elementor-button {
+    background-color: #4CAF50;
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 20px;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #B0B0B0;
+    border-radius: 15px 15px 15px 15px;
+    padding: 15px 30px 15px 30px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-69c9e7e .elementor-button:hover, .elementor-44033 .elementor-element.elementor-element-69c9e7e .elementor-button:focus {
+    background-color: #FFBE5D;
+    color: #FFFFFF;
+}
+
+.elementor-44033 .elementor-element.elementor-element-69c9e7e {
+    width: 100%;
+    max-width: 100%;
+}
+
+.elementor-44033 .elementor-element.elementor-element-69c9e7e > .elementor-widget-container {
+    margin: 15px 0px 15px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-69c9e7e .elementor-button:hover svg, .elementor-44033 .elementor-element.elementor-element-69c9e7e .elementor-button:focus svg {
+    fill: #FFFFFF;
+}
+
+.elementor-44033 .elementor-element.elementor-element-36fe658 > .elementor-widget-container {
+    margin: 0px 0px 05px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-36fe658.elementor-element {
+    --align-self: center;
+}
+
+.elementor-44033 .elementor-element.elementor-element-e0aad97 > .elementor-widget-container {
+    margin: 5px 0px 0px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-e0aad97 {
+    font-weight: 300;
+}
+
+.elementor-44033 .elementor-element.elementor-element-1703cf6 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --align-items: stretch;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    --border-top-width: 2px;
+    --border-right-width: 2px;
+    --border-bottom-width: 2px;
+    --border-left-width: 2px;
+    border-color: #DDDDDD;
+    --border-color: #DDDDDD;
+    --margin-top: 0px;
+    --margin-bottom: 25px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-1703cf6:not(.elementor-motion-effects-element-type-background), .elementor-44033 .elementor-element.elementor-element-1703cf6 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+}
+
+.elementor-44033 .elementor-element.elementor-element-1703cf6, .elementor-44033 .elementor-element.elementor-element-1703cf6::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-315ad43 {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-5a13fe4 > .elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-5a13fe4.elementor-element {
+    --align-self: center;
+}
+
+.elementor-44033 .elementor-element.elementor-element-5827bea > .elementor-widget-container {
+    margin: 0px 0px 5px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-5827bea img {
+    width: 90%;
+    max-width: 100px;
+    transition-duration: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-30c8d4b > .elementor-widget-container {
+    background-color: #000000;
+}
+
+.elementor-44033 .elementor-element.elementor-element-30c8d4b {
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.elementor-44033 .elementor-element.elementor-element-1fee0ce {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 0px 1px 0px 1px;
+    --border-top-width: 0px;
+    --border-right-width: 1px;
+    --border-bottom-width: 0px;
+    --border-left-width: 1px;
+    border-color: #C1C1C1;
+    --border-color: #C1C1C1;
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-1fee0ce, .elementor-44033 .elementor-element.elementor-element-1fee0ce::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-1fee0ce.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-44033 .elementor-element.elementor-element-9c381f7 > .elementor-widget-container {
+    margin: 10px 0px 0px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-9c381f7 {
+    font-size: 18px;
+    line-height: 1.5em;
+}
+
+.elementor-44033 .elementor-element.elementor-element-d9dc334 {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 0px 1px 0px 0px;
+    --border-top-width: 0px;
+    --border-right-width: 1px;
+    --border-bottom-width: 0px;
+    --border-left-width: 0px;
+    border-color: #C1C1C1;
+    --border-color: #C1C1C1;
+    --border-radius: 0px 1px 0px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-d9dc334, .elementor-44033 .elementor-element.elementor-element-d9dc334::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-d9dc334.e-con {
+    --align-self: stretch;
+}
+
+.elementor-44033 .elementor-element.elementor-element-8d6e7c4 > .elementor-widget-container {
+    margin: 10px 0px 10px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-8d6e7c4 {
+    text-align: center;
+    font-size: 22px;
+    text-transform: uppercase;
+}
+
+.elementor-44033 .elementor-element.elementor-element-0328946 > .elementor-widget-container {
+    margin: 10px 0px 15px 0px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-0328946 {
+    text-align: center;
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 60px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-40d19e7 {
+    text-align: center;
+    font-size: 15px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-6e4e2bb {
+    width: 100%;
+    max-width: 100%;
+    align-self: center;
+    text-align: center;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.elementor-44033 .elementor-element.elementor-element-6e4e2bb > .elementor-widget-container {
+    background-color: #FFFFFF;
+}
+
+.elementor-44033 .elementor-element.elementor-element-f8d9dcd {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-07402dd .elementor-button {
+    background-color: #4CAF50;
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 20px;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #B0B0B0;
+    border-radius: 15px 15px 15px 15px;
+    padding: 15px 30px 15px 30px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-07402dd .elementor-button:hover, .elementor-44033 .elementor-element.elementor-element-07402dd .elementor-button:focus {
+    background-color: #FFBE5D;
+    color: #FFFFFF;
+}
+
+.elementor-44033 .elementor-element.elementor-element-07402dd {
+    width: 100%;
+    max-width: 100%;
+}
+
+.elementor-44033 .elementor-element.elementor-element-07402dd > .elementor-widget-container {
+    margin: 15px 0px 15px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-07402dd .elementor-button:hover svg, .elementor-44033 .elementor-element.elementor-element-07402dd .elementor-button:focus svg {
+    fill: #FFFFFF;
+}
+
+.elementor-44033 .elementor-element.elementor-element-2d90453 > .elementor-widget-container {
+    margin: 0px 0px 05px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-2d90453.elementor-element {
+    --align-self: center;
+}
+
+.elementor-44033 .elementor-element.elementor-element-fb7d65a > .elementor-widget-container {
+    margin: 5px 0px 0px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-fb7d65a {
+    font-weight: 300;
+}
+
+.elementor-44033 .elementor-element.elementor-element-eb5e85f {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --align-items: stretch;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    --border-top-width: 2px;
+    --border-right-width: 2px;
+    --border-bottom-width: 2px;
+    --border-left-width: 2px;
+    border-color: #DDDDDD;
+    --border-color: #DDDDDD;
+    --margin-top: 0px;
+    --margin-bottom: 25px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-eb5e85f:not(.elementor-motion-effects-element-type-background), .elementor-44033 .elementor-element.elementor-element-eb5e85f > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+}
+
+.elementor-44033 .elementor-element.elementor-element-eb5e85f, .elementor-44033 .elementor-element.elementor-element-eb5e85f::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-03d2475 {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-92eb941 > .elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-92eb941.elementor-element {
+    --align-self: center;
+}
+
+.elementor-44033 .elementor-element.elementor-element-50ef6ca > .elementor-widget-container {
+    margin: 0px 0px 5px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-50ef6ca img {
+    width: 90%;
+    max-width: 100px;
+    transition-duration: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-5296a78 > .elementor-widget-container {
+    background-color: #000000;
+}
+
+.elementor-44033 .elementor-element.elementor-element-5296a78 {
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.elementor-44033 .elementor-element.elementor-element-fb48c07 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 0px 1px 0px 1px;
+    --border-top-width: 0px;
+    --border-right-width: 1px;
+    --border-bottom-width: 0px;
+    --border-left-width: 1px;
+    border-color: #C1C1C1;
+    --border-color: #C1C1C1;
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-fb48c07, .elementor-44033 .elementor-element.elementor-element-fb48c07::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-fb48c07.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-44033 .elementor-element.elementor-element-0fe8541 > .elementor-widget-container {
+    margin: 10px 0px 0px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-0fe8541 {
+    font-size: 18px;
+    line-height: 1.5em;
+}
+
+.elementor-44033 .elementor-element.elementor-element-8aad0fb {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 0px 1px 0px 0px;
+    --border-top-width: 0px;
+    --border-right-width: 1px;
+    --border-bottom-width: 0px;
+    --border-left-width: 0px;
+    border-color: #C1C1C1;
+    --border-color: #C1C1C1;
+    --border-radius: 0px 1px 0px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-8aad0fb, .elementor-44033 .elementor-element.elementor-element-8aad0fb::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-8aad0fb.e-con {
+    --align-self: stretch;
+}
+
+.elementor-44033 .elementor-element.elementor-element-70ec062 > .elementor-widget-container {
+    margin: 10px 0px 10px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-70ec062 {
+    text-align: center;
+    font-size: 22px;
+    text-transform: uppercase;
+}
+
+.elementor-44033 .elementor-element.elementor-element-7af88cb > .elementor-widget-container {
+    margin: 10px 0px 15px 0px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-7af88cb {
+    text-align: center;
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 60px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-3b5d3f6 {
+    text-align: center;
+    font-size: 15px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-abd81f1 {
+    width: 100%;
+    max-width: 100%;
+    align-self: center;
+    text-align: center;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.elementor-44033 .elementor-element.elementor-element-abd81f1 > .elementor-widget-container {
+    background-color: #FFFFFF;
+}
+
+.elementor-44033 .elementor-element.elementor-element-4ce3162 {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-950a70a .elementor-button {
+    background-color: #4CAF50;
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 20px;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #B0B0B0;
+    border-radius: 15px 15px 15px 15px;
+    padding: 15px 30px 15px 30px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-950a70a .elementor-button:hover, .elementor-44033 .elementor-element.elementor-element-950a70a .elementor-button:focus {
+    background-color: #FFBE5D;
+    color: #FFFFFF;
+}
+
+.elementor-44033 .elementor-element.elementor-element-950a70a {
+    width: 100%;
+    max-width: 100%;
+}
+
+.elementor-44033 .elementor-element.elementor-element-950a70a > .elementor-widget-container {
+    margin: 15px 0px 15px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-950a70a .elementor-button:hover svg, .elementor-44033 .elementor-element.elementor-element-950a70a .elementor-button:focus svg {
+    fill: #FFFFFF;
+}
+
+.elementor-44033 .elementor-element.elementor-element-08ff07c > .elementor-widget-container {
+    margin: 0px 0px 05px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-08ff07c.elementor-element {
+    --align-self: center;
+}
+
+.elementor-44033 .elementor-element.elementor-element-681fbde > .elementor-widget-container {
+    margin: 5px 0px 0px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-681fbde {
+    font-weight: 300;
+}
+
+.elementor-44033 .elementor-element.elementor-element-9c54238 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --align-items: stretch;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    --border-top-width: 2px;
+    --border-right-width: 2px;
+    --border-bottom-width: 2px;
+    --border-left-width: 2px;
+    border-color: #DDDDDD;
+    --border-color: #DDDDDD;
+    --margin-top: 0px;
+    --margin-bottom: 10px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-9c54238:not(.elementor-motion-effects-element-type-background), .elementor-44033 .elementor-element.elementor-element-9c54238 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+}
+
+.elementor-44033 .elementor-element.elementor-element-9c54238, .elementor-44033 .elementor-element.elementor-element-9c54238::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-1266983 {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-9a0941b > .elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-9a0941b.elementor-element {
+    --align-self: center;
+}
+
+.elementor-44033 .elementor-element.elementor-element-ea3a044 > .elementor-widget-container {
+    margin: 0px 0px 5px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-ea3a044 img {
+    width: 90%;
+    max-width: 100px;
+    transition-duration: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-943fd55 > .elementor-widget-container {
+    background-color: #000000;
+}
+
+.elementor-44033 .elementor-element.elementor-element-943fd55 {
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.elementor-44033 .elementor-element.elementor-element-79809d8 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 0px 1px 0px 1px;
+    --border-top-width: 0px;
+    --border-right-width: 1px;
+    --border-bottom-width: 0px;
+    --border-left-width: 1px;
+    border-color: #C1C1C1;
+    --border-color: #C1C1C1;
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-79809d8, .elementor-44033 .elementor-element.elementor-element-79809d8::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-79809d8.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-44033 .elementor-element.elementor-element-f013905 > .elementor-widget-container {
+    margin: 10px 0px 0px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-f013905 {
+    font-size: 18px;
+    line-height: 1.5em;
+}
+
+.elementor-44033 .elementor-element.elementor-element-0212a7d {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 0px 1px 0px 0px;
+    --border-top-width: 0px;
+    --border-right-width: 1px;
+    --border-bottom-width: 0px;
+    --border-left-width: 0px;
+    border-color: #C1C1C1;
+    --border-color: #C1C1C1;
+    --border-radius: 0px 1px 0px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-0212a7d, .elementor-44033 .elementor-element.elementor-element-0212a7d::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-0212a7d.e-con {
+    --align-self: stretch;
+}
+
+.elementor-44033 .elementor-element.elementor-element-b55d21b > .elementor-widget-container {
+    margin: 10px 0px 10px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-b55d21b {
+    text-align: center;
+    font-size: 22px;
+    text-transform: uppercase;
+}
+
+.elementor-44033 .elementor-element.elementor-element-c5078f4 > .elementor-widget-container {
+    margin: 10px 0px 15px 0px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-c5078f4 {
+    text-align: center;
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 60px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-b8da1d6 {
+    text-align: center;
+    font-size: 15px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-5ef7f48 {
+    width: 100%;
+    max-width: 100%;
+    align-self: center;
+    text-align: center;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.elementor-44033 .elementor-element.elementor-element-5ef7f48 > .elementor-widget-container {
+    background-color: #FFFFFF;
+}
+
+.elementor-44033 .elementor-element.elementor-element-3b9fe68 {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-c94134d .elementor-button {
+    background-color: #4CAF50;
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 20px;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #B0B0B0;
+    border-radius: 15px 15px 15px 15px;
+    padding: 15px 30px 15px 30px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-c94134d .elementor-button:hover, .elementor-44033 .elementor-element.elementor-element-c94134d .elementor-button:focus {
+    background-color: #FFBE5D;
+    color: #FFFFFF;
+}
+
+.elementor-44033 .elementor-element.elementor-element-c94134d {
+    width: 100%;
+    max-width: 100%;
+}
+
+.elementor-44033 .elementor-element.elementor-element-c94134d > .elementor-widget-container {
+    margin: 15px 0px 15px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-c94134d .elementor-button:hover svg, .elementor-44033 .elementor-element.elementor-element-c94134d .elementor-button:focus svg {
+    fill: #FFFFFF;
+}
+
+.elementor-44033 .elementor-element.elementor-element-ce091a5 > .elementor-widget-container {
+    margin: 0px 0px 05px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-ce091a5.elementor-element {
+    --align-self: center;
+}
+
+.elementor-44033 .elementor-element.elementor-element-68b2aed > .elementor-widget-container {
+    margin: 5px 0px 0px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-68b2aed {
+    font-weight: 300;
+}
+
+.elementor-44033 .elementor-element.elementor-element-7a3c8ec {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --align-items: stretch;
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 2px 0px 2px 0px;
+    --border-top-width: 2px;
+    --border-right-width: 0px;
+    --border-bottom-width: 2px;
+    --border-left-width: 0px;
+    border-color: #DDDDDD;
+    --border-color: #DDDDDD;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 10px;
+    --padding-right: 10px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-7a3c8ec, .elementor-44033 .elementor-element.elementor-element-7a3c8ec::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-b5aea53 {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 0px 1px 0px 0px;
+    --border-top-width: 0px;
+    --border-right-width: 1px;
+    --border-bottom-width: 0px;
+    --border-left-width: 0px;
+    border-color: #DDDDDD;
+    --border-color: #DDDDDD;
+}
+
+.elementor-44033 .elementor-element.elementor-element-b5aea53, .elementor-44033 .elementor-element.elementor-element-b5aea53::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-f360307 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --align-items: stretch;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 0px 0px 0px 0px;
+    --border-top-width: 0px;
+    --border-right-width: 0px;
+    --border-bottom-width: 0px;
+    --border-left-width: 0px;
+    border-color: #DDDDDD;
+    --border-color: #DDDDDD;
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 25px;
+    --padding-right: 25px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-f360307, .elementor-44033 .elementor-element.elementor-element-f360307::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-2b1d18d {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-8c2ede5 {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-4d1dac9 .elementor-heading-title {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 24px;
+    line-height: 1.2em;
+}
+
+.elementor-44033 .elementor-element.elementor-element-1ad691b {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 0px 1px 0px 0px;
+    --border-top-width: 0px;
+    --border-right-width: 1px;
+    --border-bottom-width: 0px;
+    --border-left-width: 0px;
+    border-color: #DDDDDD;
+    --border-color: #DDDDDD;
+}
+
+.elementor-44033 .elementor-element.elementor-element-1ad691b, .elementor-44033 .elementor-element.elementor-element-1ad691b::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-295716f {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --align-items: stretch;
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 10px;
+    --padding-right: 10px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-f4d5df8 {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-ae7fc5b {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-8c6a534 .elementor-heading-title {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 24px;
+    line-height: 1.2em;
+}
+
+.elementor-44033 .elementor-element.elementor-element-22f45a0 {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 0px 0px 0px 0px;
+    --border-top-width: 0px;
+    --border-right-width: 0px;
+    --border-bottom-width: 0px;
+    --border-left-width: 0px;
+    border-color: #DDDDDD;
+    --border-color: #DDDDDD;
+}
+
+.elementor-44033 .elementor-element.elementor-element-22f45a0, .elementor-44033 .elementor-element.elementor-element-22f45a0::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-035eb75 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --align-items: stretch;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 0px 0px 0px 0px;
+    --border-top-width: 0px;
+    --border-right-width: 0px;
+    --border-bottom-width: 0px;
+    --border-left-width: 0px;
+    border-color: #DDDDDD;
+    --border-color: #DDDDDD;
+}
+
+.elementor-44033 .elementor-element.elementor-element-035eb75, .elementor-44033 .elementor-element.elementor-element-035eb75::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-28fcbc1 {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-a9b7b80 {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-38d5302 .elementor-heading-title {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 24px;
+    line-height: 1.2em;
+}
+
+.elementor-44033 .elementor-element.elementor-element-77878dc {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --align-items: stretch;
+    --gap: 10px 10px;
+    --background-transition: 0.3s;
+    --padding-top: 25px;
+    --padding-bottom: 10px;
+    --padding-left: 10px;
+    --padding-right: 10px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-77878dc:not(.elementor-motion-effects-element-type-background), .elementor-44033 .elementor-element.elementor-element-77878dc > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #FAFAFA;
+}
+
+.elementor-44033 .elementor-element.elementor-element-77878dc, .elementor-44033 .elementor-element.elementor-element-77878dc::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-a002a9d {
+    --display: flex;
+    --background-transition: 0.3s;
+    --padding-top: 25px;
+    --padding-bottom: 25px;
+    --padding-left: 25px;
+    --padding-right: 25px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-a002a9d:not(.elementor-motion-effects-element-type-background), .elementor-44033 .elementor-element.elementor-element-a002a9d > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+}
+
+.elementor-44033 .elementor-element.elementor-element-a002a9d, .elementor-44033 .elementor-element.elementor-element-a002a9d::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-6e9e940 {
+    --display: flex;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    --border-top-width: 1px;
+    --border-right-width: 1px;
+    --border-bottom-width: 1px;
+    --border-left-width: 1px;
+    border-color: #CCCCCC;
+    --border-color: #CCCCCC;
+    --margin-top: 0px;
+    --margin-bottom: 25px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 25px;
+    --padding-bottom: 25px;
+    --padding-left: 25px;
+    --padding-right: 25px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-6e9e940, .elementor-44033 .elementor-element.elementor-element-6e9e940::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-5017f81 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --justify-content: center;
+    --align-items: center;
+    --background-transition: 0.3s;
+    --padding-top: 10px;
+    --padding-bottom: 10px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-4a93344 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-bec54ba {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-03b0974 .elementor-heading-title {
+    color: #000000;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 1.2em;
+}
+
+.elementor-44033 .elementor-element.elementor-element-7a9f8bf {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --align-items: center;
+    --background-transition: 0.3s;
+    --padding-top: 10px;
+    --padding-bottom: 10px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-003baba {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-003baba.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-44033 .elementor-element.elementor-element-c3030ed > .elementor-widget-container {
+    margin: 0px 0px 10px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-c3030ed .elementor-heading-title {
+    font-size: 27px;
+    font-weight: 600;
+}
+
+.elementor-44033 .elementor-element.elementor-element-6b683f4 > .elementor-widget-container {
+    margin: 0px 0px 25px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-6b683f4 {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 18px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-50f65e3 > .elementor-widget-container {
+    margin: 0px 0px 10px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-50f65e3 .elementor-heading-title {
+    font-size: 27px;
+    font-weight: 600;
+}
+
+.elementor-44033 .elementor-element.elementor-element-ea77010 {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 18px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-7d6ee35 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-3b2e7a0.elementor-element {
+    --align-self: center;
+}
+
+.elementor-44033 .elementor-element.elementor-element-b88b9d4 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --align-items: center;
+    --background-transition: 0.3s;
+    --padding-top: 10px;
+    --padding-bottom: 10px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-d67283a {
+    --display: flex;
+    --background-transition: 0.3s;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-a7adbbe > .elementor-widget-container {
+    margin: 0px 0px 15px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-a7adbbe {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 18px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-693eb58 {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 18px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-a813ae0 > .elementor-widget-container {
+    margin: 0px 0px 10px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-a813ae0 img {
+    width: 94%;
+    max-width: 208px;
+    transition-duration: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-2723472 .elementor-button {
+    background-color: #4CAF50;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 20px;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #B0B0B0;
+    border-radius: 14px 14px 14px 14px;
+    padding: 15px 30px 15px 30px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-2723472 .elementor-button:hover, .elementor-44033 .elementor-element.elementor-element-2723472 .elementor-button:focus {
+    background-color: #FFBE5D;
+    color: #FFFFFF;
+}
+
+.elementor-44033 .elementor-element.elementor-element-2723472 {
+    width: 100%;
+    max-width: 100%;
+}
+
+.elementor-44033 .elementor-element.elementor-element-2723472 > .elementor-widget-container {
+    margin: 15px 0px 15px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-2723472 .elementor-button:hover svg, .elementor-44033 .elementor-element.elementor-element-2723472 .elementor-button:focus svg {
+    fill: #FFFFFF;
+}
+
+.elementor-44033 .elementor-element.elementor-element-32fbdeb {
+    --display: flex;
+    --background-transition: 0.3s;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-8526f61 {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-7dcd463 {
+    width: 100%;
+    max-width: 100%;
+}
+
+.elementor-44033 .elementor-element.elementor-element-7dcd463.elementor-element {
+    --align-self: center;
+}
+
+.elementor-44033 .elementor-element.elementor-element-c55f6de > .elementor-widget-container {
+    background-color: #000000;
+    padding: 0px 25px 0px 15px;
+    border-style: solid;
+    border-width: 0px 0px 1px 0px;
+    border-color: #333333;
+}
+
+.elementor-44033 .elementor-element.elementor-element-c55f6de {
+    color: #FFFFFF;
+}
+
+.elementor-44033 .elementor-element.elementor-element-be80b40 > .elementor-widget-container {
+    margin: 10px 0px 15px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-be80b40 .elementor-heading-title {
+    color: #000000;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 1.2em;
+}
+
+.elementor-44033 .elementor-element.elementor-element-a1d4d8c > .elementor-widget-container {
+    margin: 5px 0px 0px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-a1d4d8c {
+    color: #333333;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 20px;
+    line-height: 1.5em;
+}
+
+.elementor-44033 .elementor-element.elementor-element-93d7462 .elementor-button {
+    background-color: #298F15F2;
+    font-size: 28px;
+    font-weight: bold;
+    text-transform: uppercase;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    border-radius: 5px 5px 5px 5px;
+    padding: 15px 15px 15px 15px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-93d7462 .elementor-button:hover, .elementor-44033 .elementor-element.elementor-element-93d7462 .elementor-button:focus {
+    background-color: #379924F2;
+    color: #FFFFFFF2;
+}
+
+.elementor-44033 .elementor-element.elementor-element-93d7462 > .elementor-widget-container {
+    margin: 0px 0px 5px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-93d7462 .elementor-button-content-wrapper {
+    flex-direction: row-reverse;
+}
+
+.elementor-44033 .elementor-element.elementor-element-93d7462 .elementor-button .elementor-button-content-wrapper {
+    gap: 10px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-93d7462 .elementor-button:hover svg, .elementor-44033 .elementor-element.elementor-element-93d7462 .elementor-button:focus svg {
+    fill: #FFFFFFF2;
+}
+
+.elementor-44033 .elementor-element.elementor-element-9bc090b {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --align-items: stretch;
+    --background-transition: 0.3s;
+    --margin-top: 0px;
+    --margin-bottom: 50px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 15px;
+    --padding-bottom: 15px;
+    --padding-left: 15px;
+    --padding-right: 15px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-9bc090b:not(.elementor-motion-effects-element-type-background), .elementor-44033 .elementor-element.elementor-element-9bc090b > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #EEEEEE;
+}
+
+.elementor-44033 .elementor-element.elementor-element-9bc090b, .elementor-44033 .elementor-element.elementor-element-9bc090b::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-f50b1e1 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-f11a3ff img {
+    width: 75px;
+    border-radius: 500px 500px 500px 500px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-e109bca {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-ab1b6db > .elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-ab1b6db .elementor-star-rating {
+    font-size: 15px;
+}
+
+body:not(.rtl) .elementor-44033 .elementor-element.elementor-element-ab1b6db .elementor-star-rating i:not(:last-of-type) {
+    margin-right: 5px;
+}
+
+body.rtl .elementor-44033 .elementor-element.elementor-element-ab1b6db .elementor-star-rating i:not(:last-of-type) {
+    margin-left: 5px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-859f2f7 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-44033 .elementor-element.elementor-element-ca65574 > .elementor-widget-container {
+    margin: 0px 0px 25px 0px;
+    padding: 15px 15px 15px 15px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-ca65574 {
+    font-family: "Montserrat", Sans-serif;
+}
+
+.elementor-44033 .elementor-element.elementor-element-8894cf8 > .elementor-widget-container {
+    background-color: #FAFAFA;
+    margin: 0px 0px 25px 0px;
+    padding: 15px 15px 15px 15px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-8894cf8 {
+    font-family: "Montserrat", Sans-serif;
+}
+
+.elementor-44033 .elementor-element.elementor-element-0881ede {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+@media(min-width: 768px) {
+    .elementor-44033 .elementor-element.elementor-element-fbae815 {
+        --content-width:1250px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-debe2fa {
+        --content-width: 1250px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-2826b6a {
+        --content-width: 1250px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-574f63b {
+        --content-width: 1225px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-68e863c {
+        --content-width: 1250px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-be10c9a {
+        --width: 100%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-0a8254d {
+        --width: 24%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-30cac45 {
+        --width: 40%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-5bddd4b {
+        --width: 18%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-2fd11f4 {
+        --width: 18%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-f1768a1 {
+        --width: 24%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-2582ebc {
+        --width: 40%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-0d0048b {
+        --width: 18%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-1a7d75c {
+        --width: 18%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-315ad43 {
+        --width: 24%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-1fee0ce {
+        --width: 40%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-d9dc334 {
+        --width: 18%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-f8d9dcd {
+        --width: 18%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-03d2475 {
+        --width: 24%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-fb48c07 {
+        --width: 40%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-8aad0fb {
+        --width: 18%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-4ce3162 {
+        --width: 18%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-1266983 {
+        --width: 24%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-79809d8 {
+        --width: 40%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-0212a7d {
+        --width: 18%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-3b9fe68 {
+        --width: 18%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-2b1d18d {
+        --width: 25%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-8c2ede5 {
+        --width: 74.998%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-f4d5df8 {
+        --width: 25%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-ae7fc5b {
+        --width: 74.998%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-28fcbc1 {
+        --width: 25%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-a9b7b80 {
+        --width: 74.998%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-77878dc {
+        --content-width: 1250px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-a002a9d {
+        --width: 80%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-4a93344 {
+        --width: 10%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-bec54ba {
+        --width: 90%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-003baba {
+        --width: 65%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-7d6ee35 {
+        --width: 35%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-d67283a {
+        --width: 60%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-32fbdeb {
+        --width: 40%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-8526f61 {
+        --width: 25%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-f50b1e1 {
+        --width: 10%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-e109bca {
+        --width: 90%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-859f2f7 {
+        --width: 20%;
+    }
+}
+
+@media(max-width: 1024px) and (min-width:768px) {
+    .elementor-44033 .elementor-element.elementor-element-be10c9a {
+        --width:100%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-4a93344 {
+        --width: 15%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-bec54ba {
+        --width: 85%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-003baba {
+        --width: 80.153%;
+    }
+}
+
+@media(max-width: 1024px) {
+    .elementor-44033 .elementor-element.elementor-element-789d9fc {
+        --justify-content:center;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-ca254d7.elementor-element {
+        --align-self: center;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-ca254d7 {
+        text-align: center;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-ca254d7 .elementor-heading-title {
+        font-size: 40px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-debe2fa {
+        --justify-content: center;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-6da8b07 > .elementor-widget-container {
+        margin: 3px 5px 0px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-85c62d0 {
+        width: 100%;
+        max-width: 100%;
+        top: 1px;
+        text-align: center;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-85c62d0.elementor-element {
+        --align-self: center;
+    }
+
+    body:not(.rtl) .elementor-44033 .elementor-element.elementor-element-85c62d0 {
+        right: 2px;
+    }
+
+    body.rtl .elementor-44033 .elementor-element.elementor-element-85c62d0 {
+        left: 2px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-a5ff52e {
+        font-size: 15px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-1acef9b {
+        font-size: 19px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-3ea52cf {
+        font-size: 63px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-5d57340 {
+        font-size: 16px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-e9d4ceb {
+        font-size: 19px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-eaa597b {
+        font-size: 63px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-956b4c8 {
+        font-size: 16px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-69c9e7e .elementor-button {
+        font-size: 15px;
+        padding: 15px 18px 15px 18px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-8d6e7c4 {
+        font-size: 19px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-0328946 {
+        font-size: 63px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-6e4e2bb {
+        font-size: 16px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-07402dd .elementor-button {
+        font-size: 15px;
+        padding: 15px 18px 15px 18px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-70ec062 {
+        font-size: 19px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-7af88cb {
+        font-size: 63px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-abd81f1 {
+        font-size: 16px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-950a70a .elementor-button {
+        font-size: 15px;
+        padding: 15px 18px 15px 18px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-9c54238 {
+        --align-items: stretch;
+        --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-b55d21b {
+        font-size: 19px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-c5078f4 {
+        font-size: 63px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-5ef7f48 {
+        font-size: 16px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-c94134d .elementor-button {
+        font-size: 15px;
+        padding: 15px 18px 15px 18px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-b5aea53 {
+        --margin-top: 5px;
+        --margin-bottom: 5px;
+        --margin-left: 5px;
+        --margin-right: 5px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-f360307 {
+        --margin-top: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+        --padding-top: 0px;
+        --padding-bottom: 0px;
+        --padding-left: 0px;
+        --padding-right: 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-4d1dac9 .elementor-heading-title {
+        font-size: 20px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-1ad691b {
+        --margin-top: 5px;
+        --margin-bottom: 5px;
+        --margin-left: 5px;
+        --margin-right: 5px;
+        --padding-top: 0px;
+        --padding-bottom: 0px;
+        --padding-left: 0px;
+        --padding-right: 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-8c6a534 .elementor-heading-title {
+        font-size: 20px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-22f45a0 {
+        --margin-top: 5px;
+        --margin-bottom: 5px;
+        --margin-left: 5px;
+        --margin-right: 5px;
+        --padding-top: 0px;
+        --padding-bottom: 0px;
+        --padding-left: 0px;
+        --padding-right: 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-38d5302 .elementor-heading-title {
+        font-size: 20px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-6b683f4 {
+        font-size: 16px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-a7adbbe {
+        font-size: 16px;
+    }
+}
+
+@media(max-width: 767px) {
+    .elementor-44033 .elementor-element.elementor-element-fbae815 {
+        --margin-top:0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-789d9fc {
+        --justify-content: center;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-ca254d7 {
+        --container-widget-width: 100%;
+        --container-widget-flex-grow: 0;
+        width: var( --container-widget-width, 100% );
+        max-width: 100%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-ca254d7 .elementor-heading-title {
+        font-size: 32px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-debe2fa {
+        --padding-top: 5px;
+        --padding-bottom: 5px;
+        --padding-left: 0px;
+        --padding-right: 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-6da8b07 > .elementor-widget-container {
+        margin: 3px 5px 0px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-6da8b07 .elementor-icon {
+        font-size: 16px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-6da8b07 .elementor-icon svg {
+        height: 16px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-2e149ed {
+        text-align: center;
+        font-size: 15px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-85c62d0 {
+        width: 100%;
+        max-width: 100%;
+        top: 0%;
+        text-align: center;
+    }
+
+    body:not(.rtl) .elementor-44033 .elementor-element.elementor-element-85c62d0 {
+        right: 0px;
+    }
+
+    body.rtl .elementor-44033 .elementor-element.elementor-element-85c62d0 {
+        left: 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-85c62d0 img {
+        width: 150px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-c790615 {
+        font-size: 18px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-574f63b {
+        --padding-top: 0px;
+        --padding-bottom: 0px;
+        --padding-left: 10px;
+        --padding-right: 20px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-68e863c {
+        --padding-top: 10px;
+        --padding-bottom: 10px;
+        --padding-left: 10px;
+        --padding-right: 10px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-0f6c1a1 {
+        --spacer-size: 50px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-9b05f33 > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-9b05f33 {
+        text-align: center;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-9b05f33 img {
+        width: 100%;
+        max-width: 100%;
+        border-radius: 0px 0px 0px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-30cac45 {
+        border-width: 0px 0px 0px 0px;
+        --border-top-width: 0px;
+        --border-right-width: 0px;
+        --border-bottom-width: 0px;
+        --border-left-width: 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-a5ff52e > .elementor-widget-container {
+        margin: 015px 0px 0px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-a5ff52e {
+        font-size: 19px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-5bddd4b {
+        border-width: 1px 0px 1px 0px;
+        --border-top-width: 1px;
+        --border-right-width: 0px;
+        --border-bottom-width: 1px;
+        --border-left-width: 0px;
+        --margin-top: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-1acef9b > .elementor-widget-container {
+        margin: 10px 0px 10px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-1acef9b {
+        font-size: 20px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-3ea52cf > .elementor-widget-container {
+        margin: 10px 0px 15px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-3ea52cf {
+        text-align: center;
+        font-size: 80px;
+        line-height: 50px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-cb938ca {
+        font-size: 17px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-5d57340 > .elementor-widget-container {
+        margin: 5px 0px 10px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-5d57340 {
+        font-size: 15px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-2fd11f4 {
+        --justify-content: center;
+        --margin-top: -14px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-b683fad > .elementor-widget-container {
+        margin: 95px 0px 0px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-9275292 > .elementor-widget-container {
+        margin: 5px 0px 5px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-9275292.elementor-element {
+        --align-self: center;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-4afddfe > .elementor-widget-container {
+        margin: 25px 0px 0px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-0707af4 > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-2582ebc {
+        border-width: 0px 0px 0px 0px;
+        --border-top-width: 0px;
+        --border-right-width: 0px;
+        --border-bottom-width: 0px;
+        --border-left-width: 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-4987a6f > .elementor-widget-container {
+        margin: 015px 0px 0px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-4987a6f {
+        font-size: 19px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-0d0048b {
+        border-width: 1px 0px 1px 0px;
+        --border-top-width: 1px;
+        --border-right-width: 0px;
+        --border-bottom-width: 1px;
+        --border-left-width: 0px;
+        --margin-top: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-e9d4ceb > .elementor-widget-container {
+        margin: 10px 0px 10px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-e9d4ceb {
+        font-size: 20px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-eaa597b > .elementor-widget-container {
+        margin: 10px 0px 15px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-eaa597b {
+        text-align: center;
+        font-size: 80px;
+        line-height: 50px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-d6a97be {
+        font-size: 17px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-956b4c8 > .elementor-widget-container {
+        margin: 5px 0px 10px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-956b4c8 {
+        font-size: 15px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-1a7d75c {
+        --margin-top: -14px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-69c9e7e > .elementor-widget-container {
+        margin: 25px 0px 10px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-36fe658 > .elementor-widget-container {
+        margin: 5px 0px 5px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-36fe658.elementor-element {
+        --align-self: center;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-5a13fe4 > .elementor-widget-container {
+        margin: 25px 0px 0px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-5827bea > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-1fee0ce {
+        border-width: 0px 0px 0px 0px;
+        --border-top-width: 0px;
+        --border-right-width: 0px;
+        --border-bottom-width: 0px;
+        --border-left-width: 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-9c381f7 > .elementor-widget-container {
+        margin: 015px 0px 0px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-9c381f7 {
+        font-size: 19px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-d9dc334 {
+        border-width: 1px 0px 1px 0px;
+        --border-top-width: 1px;
+        --border-right-width: 0px;
+        --border-bottom-width: 1px;
+        --border-left-width: 0px;
+        --margin-top: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-8d6e7c4 > .elementor-widget-container {
+        margin: 10px 0px 10px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-8d6e7c4 {
+        font-size: 20px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-0328946 > .elementor-widget-container {
+        margin: 10px 0px 15px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-0328946 {
+        text-align: center;
+        font-size: 80px;
+        line-height: 50px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-40d19e7 {
+        font-size: 17px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-6e4e2bb > .elementor-widget-container {
+        margin: 5px 0px 10px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-6e4e2bb {
+        font-size: 15px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-f8d9dcd {
+        --margin-top: -14px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-07402dd > .elementor-widget-container {
+        margin: 25px 0px 10px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-2d90453 > .elementor-widget-container {
+        margin: 5px 0px 5px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-2d90453.elementor-element {
+        --align-self: center;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-92eb941 > .elementor-widget-container {
+        margin: 25px 0px 0px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-50ef6ca > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-fb48c07 {
+        border-width: 0px 0px 0px 0px;
+        --border-top-width: 0px;
+        --border-right-width: 0px;
+        --border-bottom-width: 0px;
+        --border-left-width: 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-0fe8541 > .elementor-widget-container {
+        margin: 015px 0px 0px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-0fe8541 {
+        font-size: 19px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-8aad0fb {
+        border-width: 1px 0px 1px 0px;
+        --border-top-width: 1px;
+        --border-right-width: 0px;
+        --border-bottom-width: 1px;
+        --border-left-width: 0px;
+        --margin-top: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-70ec062 > .elementor-widget-container {
+        margin: 10px 0px 10px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-70ec062 {
+        font-size: 20px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-7af88cb > .elementor-widget-container {
+        margin: 10px 0px 15px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-7af88cb {
+        text-align: center;
+        font-size: 80px;
+        line-height: 50px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-3b5d3f6 {
+        font-size: 17px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-abd81f1 > .elementor-widget-container {
+        margin: 5px 0px 10px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-abd81f1 {
+        font-size: 15px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-4ce3162 {
+        --margin-top: -14px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-950a70a > .elementor-widget-container {
+        margin: 25px 0px 10px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-08ff07c > .elementor-widget-container {
+        margin: 5px 0px 5px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-08ff07c.elementor-element {
+        --align-self: center;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-9a0941b > .elementor-widget-container {
+        margin: 25px 0px 0px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-79809d8 {
+        border-width: 0px 0px 0px 0px;
+        --border-top-width: 0px;
+        --border-right-width: 0px;
+        --border-bottom-width: 0px;
+        --border-left-width: 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-f013905 > .elementor-widget-container {
+        margin: 015px 0px 0px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-f013905 {
+        font-size: 19px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-0212a7d {
+        border-width: 1px 0px 1px 0px;
+        --border-top-width: 1px;
+        --border-right-width: 0px;
+        --border-bottom-width: 1px;
+        --border-left-width: 0px;
+        --margin-top: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-b55d21b > .elementor-widget-container {
+        margin: 10px 0px 10px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-b55d21b {
+        font-size: 20px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-c5078f4 > .elementor-widget-container {
+        margin: 10px 0px 15px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-c5078f4 {
+        text-align: center;
+        font-size: 80px;
+        line-height: 50px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-b8da1d6 {
+        font-size: 17px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-5ef7f48 > .elementor-widget-container {
+        margin: 5px 0px 10px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-5ef7f48 {
+        font-size: 15px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-3b9fe68 {
+        --margin-top: -14px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-c94134d > .elementor-widget-container {
+        margin: 25px 0px 10px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-ce091a5 > .elementor-widget-container {
+        margin: 5px 0px 5px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-ce091a5.elementor-element {
+        --align-self: center;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-7a3c8ec {
+        border-width: 0px 0px 0px 0px;
+        --border-top-width: 0px;
+        --border-right-width: 0px;
+        --border-bottom-width: 0px;
+        --border-left-width: 0px;
+        --margin-top: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+        --padding-top: 10px;
+        --padding-bottom: 10px;
+        --padding-left: 0px;
+        --padding-right: 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-b5aea53 {
+        border-width: 0px 0px 0px 0px;
+        --border-top-width: 0px;
+        --border-right-width: 0px;
+        --border-bottom-width: 0px;
+        --border-left-width: 0px;
+        --margin-top: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+        --padding-top: 10px;
+        --padding-bottom: 0px;
+        --padding-left: 0px;
+        --padding-right: 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-f360307 {
+        --flex-direction: row;
+        --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );
+        --container-widget-height: 100%;
+        --container-widget-flex-grow: 1;
+        --container-widget-align-self: stretch;
+        --flex-wrap-mobile: wrap;
+        --align-items: stretch;
+        border-width: 1px 0px 1px 0px;
+        --border-top-width: 1px;
+        --border-right-width: 0px;
+        --border-bottom-width: 1px;
+        --border-left-width: 0px;
+        --padding-top: 0px;
+        --padding-bottom: 0px;
+        --padding-left: 0px;
+        --padding-right: 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-2b1d18d {
+        --width: 20%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-8c2ede5 {
+        --width: 80%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-1ad691b {
+        border-width: 0px 0px 0px 0px;
+        --border-top-width: 0px;
+        --border-right-width: 0px;
+        --border-bottom-width: 0px;
+        --border-left-width: 0px;
+        --margin-top: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-295716f {
+        --align-items: stretch;
+        --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );
+        --gap: 0px 0px;
+        --padding-top: 0px;
+        --padding-bottom: 0px;
+        --padding-left: 0px;
+        --padding-right: 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-f4d5df8 {
+        --width: 20%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-ae7fc5b {
+        --width: 80%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-22f45a0 {
+        border-width: 0px 0px 0px 0px;
+        --border-top-width: 0px;
+        --border-right-width: 0px;
+        --border-bottom-width: 0px;
+        --border-left-width: 0px;
+        --margin-top: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-035eb75 {
+        border-width: 1px 0px 1px 0px;
+        --border-top-width: 1px;
+        --border-right-width: 0px;
+        --border-bottom-width: 1px;
+        --border-left-width: 0px;
+        --padding-top: 0px;
+        --padding-bottom: 0px;
+        --padding-left: 0px;
+        --padding-right: 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-28fcbc1 {
+        --width: 20%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-a9b7b80 {
+        --width: 80%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-a002a9d {
+        --padding-top: 10px;
+        --padding-bottom: 10px;
+        --padding-left: 10px;
+        --padding-right: 10px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-6e9e940 {
+        --margin-top: 0px;
+        --margin-bottom: 10px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+        --padding-top: 10px;
+        --padding-bottom: 10px;
+        --padding-left: 10px;
+        --padding-right: 10px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-4a93344 {
+        --width: 25%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-bec54ba {
+        --width: 75%;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-03b0974 > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-03b0974 .elementor-heading-title {
+        font-size: 20px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-7a9f8bf {
+        --flex-direction: column-reverse;
+        --container-widget-width: 100%;
+        --container-widget-height: initial;
+        --container-widget-flex-grow: 0;
+        --container-widget-align-self: initial;
+        --flex-wrap-mobile: wrap;
+        --padding-top: 0px;
+        --padding-bottom: 0px;
+        --padding-left: 0px;
+        --padding-right: 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-6b683f4 {
+        font-size: 19px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-b88b9d4 {
+        --flex-direction: column-reverse;
+        --container-widget-width: 100%;
+        --container-widget-height: initial;
+        --container-widget-flex-grow: 0;
+        --container-widget-align-self: initial;
+        --flex-wrap-mobile: wrap;
+        --margin-top: 10px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-a7adbbe > .elementor-widget-container {
+        margin: 10px 0px 10px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-a7adbbe {
+        font-size: 19px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-a813ae0 > .elementor-widget-container {
+        margin: 10px 0px 5px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-2723472 > .elementor-widget-container {
+        margin: 10px 0px 10px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-be80b40 .elementor-heading-title {
+        font-size: 24px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-a1d4d8c {
+        font-size: 20px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-93d7462 .elementor-button {
+        font-size: 22px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-9bc090b {
+        --margin-top: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-90eb9f0 {
+        text-align: center;
+        font-size: 15px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-ab1b6db {
+        text-align: center;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-d6b9b9d {
+        text-align: center;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-8894cf8 > .elementor-widget-container {
+        margin: 15px 0px 0px 0px;
+    }
+
+    .elementor-44033 .elementor-element.elementor-element-8894cf8 {
+        text-align: center;
+    }
+}
+
+/* Start custom CSS for text-editor, class: .elementor-element-2e149ed */
+.elementor-44033 .elementor-element.elementor-element-2e149ed p {
+    margin: 0px;
+}
+
+/* End custom CSS */
+/* Start custom CSS for image, class: .elementor-element-85c62d0 */
+@media screen and (max-width: 1024px) {
+    .elementor-44033 .elementor-element.elementor-element-85c62d0 {
+        position:relative !important;
+        clear: both !important;
+    }
+}
+
+/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-c790615 */
+.elementor-44033 .elementor-element.elementor-element-c790615 p {
+    margin-bottom: 25px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-c790615 p:last-child {
+    margin: 0;
+}
+
+@media screen and (max-width: 767px) {
+    .elementor-44033 .elementor-element.elementor-element-c790615 ul {
+        margin-left:25px;
+    }
+}
+
+/* End custom CSS */
+/* Start custom CSS for html, class: .elementor-element-7538678 */
+.elementor-44033 .elementor-element.elementor-element-7538678 {
+    text-align: right;
+    z-index: 999;
+}
+
+.elementor-44033 .elementor-element.elementor-element-7538678 a {
+    color: #000;
+    text-decoration: underline;
+    cursor: pointer;
+    font-size: 13px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-7538678 a i {
+    border: solid 1px #000;
+    width: 15px;
+    height: 15px;
+    text-align: center;
+    border-radius: 50px;
+    line-height: 1.3em;
+    font-size: 10px;
+}
+
+a#closer {
+    float: right;
+}
+
+#advpop {
+    position: absolute;
+    bottom: 25px;
+    right: 0px;
+    background: #fff;
+    border: solid 1px #ddd;
+    padding: 15px;
+    width: 100%;
+    max-width: 400px;
+    text-align: left;
+    font-size: 12px;
+    line-height: 1.3em;
+    display: none;
+}
+
+/*#advpop::before {
+    content: '';
+    position: absolute;
+    border-style: solid;
+    border-color: #d0d0d0;
+    display: block;
+    width: 0;
+    background-color: inherit;
+    transform: rotate(45deg) skew(10deg, 10deg);
+    border-width: 1px 0 0 1px;
+    bottom: -10px;
+    right: 35px;
+    width: 18px;
+    height: 18px;
+    border-top-left-radius: 4px;
+}*/
+/* End custom CSS */
+/* Start custom CSS for shortcode, class: .elementor-element-a9f9b97 */
+.elementor-44033 .elementor-element.elementor-element-a9f9b97 {
+    text-align: center;
+}
+
+.elementor-44033 .elementor-element.elementor-element-a9f9b97 img {
+    object-fit: contain;
+    height: 200px;
+}
+
+/* End custom CSS */
+/* Start custom CSS for image, class: .elementor-element-9b05f33 */
+.elementor-44033 .elementor-element.elementor-element-9b05f33 img {
+    object-fit: contain;
+    width: 150px;
+    height: 50px;
+}
+
+/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-ae16cc2 */
+.elementor-44033 .elementor-element.elementor-element-ae16cc2 {
+    position: absolute;
+    top: -2px;
+    left: -10px;
+    width: auto;
+    height: 36px;
+    line-height: 36px;
+    font-weight: 500;
+    text-align: center;
+    border-top-left-radius: 3px;
+    font-size: 17px;
+    z-inex: 999;
+}
+
+.elementor-44033 .elementor-element.elementor-element-ae16cc2:before {
+    content: "";
+    position: absolute;
+    left: 0px;
+    bottom: -10px;
+    border-right: 10px solid #333;
+    border-bottom: 10px solid transparent;
+}
+
+.elementor-44033 .elementor-element.elementor-element-ae16cc2:after {
+    content: "";
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    border-right: 9px solid #fff;
+    border-top: 16px solid transparent;
+    border-bottom: 16px solid transparent;
+}
+
+/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-a5ff52e */
+.elementor-44033 .elementor-element.elementor-element-a5ff52e p {
+    margin-bottom: 25px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-a5ff52e p:last-child {
+    margin: 0;
+}
+
+.elementor-44033 .elementor-element.elementor-element-a5ff52e ul .cross {
+    display: none;
+}
+
+/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-cb938ca */
+.elementor-44033 .elementor-element.elementor-element-cb938ca p {
+    margin: 0;
+}
+
+/* End custom CSS */
+/* Start custom CSS for eael-tooltip, class: .elementor-element-b683fad */
+.elementor-44033 .elementor-element.elementor-element-b683fad a {
+    padding: 15px 0;
+}
+
+.elementor-44033 .elementor-element.elementor-element-b683fad a:hover {
+    animation: pulse 1s infinite;
+}
+
+.elementor-44033 .elementor-element.elementor-element-b683fad p {
+    margin: 0;
+}
+
+.eael-tooltip {
+    max-width: none !important;
+    width: 90% !important;
+    padding: 0px !important;
+}
+
+.eael-tooltip .eael-tooltip-text {
+    visibility: visible !important;
+    max-width: none !important;
+    width: 100% !important;
+    left: 50% !important;
+    text-align: center;
+}
+
+.elementor-44033 .elementor-element.elementor-element-b683fad i {
+    font-size: 13px;
+    transform: translate(5px,-1px);
+}
+
+/* End custom CSS */
+/* Start custom CSS for shortcode, class: .elementor-element-9275292 */
+.elementor-44033 .elementor-element.elementor-element-9275292 {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-cdf2eb9 */
+.elementor-44033 .elementor-element.elementor-element-cdf2eb9 a {
+    color: #333;
+}
+
+/* End custom CSS */
+/* Start custom CSS for shortcode, class: .elementor-element-4afddfe */
+.elementor-44033 .elementor-element.elementor-element-4afddfe {
+    text-align: center;
+}
+
+.elementor-44033 .elementor-element.elementor-element-4afddfe img {
+    object-fit: contain;
+    height: 200px;
+}
+
+/* End custom CSS */
+/* Start custom CSS for image, class: .elementor-element-0707af4 */
+.elementor-44033 .elementor-element.elementor-element-0707af4 img {
+    object-fit: contain;
+    width: 150px;
+    height: 50px;
+}
+
+/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-4987a6f */
+.elementor-44033 .elementor-element.elementor-element-4987a6f p {
+    margin-bottom: 25px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-4987a6f p:last-child {
+    margin: 0;
+}
+
+/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-d6a97be */
+.elementor-44033 .elementor-element.elementor-element-d6a97be p {
+    margin: 0;
+}
+
+/* End custom CSS */
+/* Start custom CSS for shortcode, class: .elementor-element-36fe658 */
+.elementor-44033 .elementor-element.elementor-element-36fe658 {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-e0aad97 */
+.elementor-44033 .elementor-element.elementor-element-e0aad97 a {
+    color: #333;
+}
+
+/* End custom CSS */
+/* Start custom CSS for shortcode, class: .elementor-element-5a13fe4 */
+.elementor-44033 .elementor-element.elementor-element-5a13fe4 {
+    text-align: center;
+}
+
+.elementor-44033 .elementor-element.elementor-element-5a13fe4 img {
+    object-fit: contain;
+    height: 200px;
+}
+
+/* End custom CSS */
+/* Start custom CSS for image, class: .elementor-element-5827bea */
+.elementor-44033 .elementor-element.elementor-element-5827bea img {
+    object-fit: contain;
+    width: 150px;
+    height: 50px;
+}
+
+/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-9c381f7 */
+.elementor-44033 .elementor-element.elementor-element-9c381f7 p {
+    margin-bottom: 25px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-9c381f7 p:last-child {
+    margin: 0;
+}
+
+/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-40d19e7 */
+.elementor-44033 .elementor-element.elementor-element-40d19e7 p {
+    margin: 0;
+}
+
+/* End custom CSS */
+/* Start custom CSS for shortcode, class: .elementor-element-2d90453 */
+.elementor-44033 .elementor-element.elementor-element-2d90453 {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-fb7d65a */
+.elementor-44033 .elementor-element.elementor-element-fb7d65a a {
+    color: #333;
+}
+
+/* End custom CSS */
+/* Start custom CSS for shortcode, class: .elementor-element-92eb941 */
+.elementor-44033 .elementor-element.elementor-element-92eb941 {
+    text-align: center;
+}
+
+.elementor-44033 .elementor-element.elementor-element-92eb941 img {
+    object-fit: contain;
+    height: 200px;
+}
+
+/* End custom CSS */
+/* Start custom CSS for image, class: .elementor-element-50ef6ca */
+.elementor-44033 .elementor-element.elementor-element-50ef6ca img {
+    object-fit: contain;
+    width: 150px;
+    height: 50px;
+}
+
+/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-0fe8541 */
+.elementor-44033 .elementor-element.elementor-element-0fe8541 p {
+    margin-bottom: 25px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-0fe8541 p:last-child {
+    margin: 0;
+}
+
+/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-3b5d3f6 */
+.elementor-44033 .elementor-element.elementor-element-3b5d3f6 p {
+    margin: 0;
+}
+
+/* End custom CSS */
+/* Start custom CSS for shortcode, class: .elementor-element-08ff07c */
+.elementor-44033 .elementor-element.elementor-element-08ff07c {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-681fbde */
+.elementor-44033 .elementor-element.elementor-element-681fbde a {
+    color: #333;
+}
+
+/* End custom CSS */
+/* Start custom CSS for shortcode, class: .elementor-element-9a0941b */
+.elementor-44033 .elementor-element.elementor-element-9a0941b {
+    text-align: center;
+}
+
+.elementor-44033 .elementor-element.elementor-element-9a0941b img {
+    object-fit: contain;
+    height: 200px;
+}
+
+/* End custom CSS */
+/* Start custom CSS for image, class: .elementor-element-ea3a044 */
+.elementor-44033 .elementor-element.elementor-element-ea3a044 img {
+    object-fit: contain;
+    width: 150px;
+    height: 50px;
+}
+
+/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-f013905 */
+.elementor-44033 .elementor-element.elementor-element-f013905 p {
+    margin-bottom: 25px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-f013905 p:last-child {
+    margin: 0;
+}
+
+/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-b8da1d6 */
+.elementor-44033 .elementor-element.elementor-element-b8da1d6 p {
+    margin: 0;
+}
+
+/* End custom CSS */
+/* Start custom CSS for shortcode, class: .elementor-element-ce091a5 */
+.elementor-44033 .elementor-element.elementor-element-ce091a5 {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-68b2aed */
+.elementor-44033 .elementor-element.elementor-element-68b2aed a {
+    color: #333;
+}
+
+/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-68e863c */
+.elementor-44033 .elementor-element.elementor-element-68e863c div p {
+    margin: 0px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-68e863c .num {
+    float: left;
+    position: absolute;
+    background-color: #eee;
+    color: #fff;
+    top: 0px !important;
+    left: 0px !important;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+#num1 {
+    /*width:100%;*/
+    display: none;
+}
+
+.elementor-44033 .elementor-element.elementor-element-68e863c ul:not(.elementor-editor-element-settings) {
+    list-style: none;
+    margin: 0px;
+    font-size: 18px;
+    color: #333;
+}
+
+.elementor-44033 .elementor-element.elementor-element-68e863c ul:not(.elementor-editor-element-settings) li {
+    background-image: url('../img/tick.webp');
+    background-position: 0px 1px;
+    background-size: 20px;
+    background-repeat: no-repeat;
+    padding-left: 25px;
+    line-height: 20px;
+    margin-bottom: 10px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-68e863c ul li.cross {
+    background-image: url('../img/cross.webp');
+    background-size: 24px;
+    background-position: -2px -1px;
+}
+
+/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-6b683f4 */
+.elementor-44033 .elementor-element.elementor-element-6b683f4 ul .cross {
+    display: none;
+}
+
+/* End custom CSS */
+/* Start custom CSS for shortcode, class: .elementor-element-3b2e7a0 */
+.elementor-44033 .elementor-element.elementor-element-3b2e7a0 img {
+    object-fit: contain;
+    width: 100%;
+    height: 300px;
+}
+
+/* End custom CSS */
+/* Start custom CSS for image, class: .elementor-element-a813ae0 */
+.elementor-44033 .elementor-element.elementor-element-a813ae0 img {
+    object-fit: contain;
+    height: 50px;
+}
+
+/* End custom CSS */
+/* Start custom CSS for shortcode, class: .elementor-element-7dcd463 */
+.elementor-44033 .elementor-element.elementor-element-7dcd463 {
+    text-align: center;
+}
+
+.elementor-44033 .elementor-element.elementor-element-7dcd463 img {
+    object-fit: contain;
+    height: 200px;
+    margin: 35px 0 10px 0;
+}
+
+/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-c55f6de */
+.elementor-44033 .elementor-element.elementor-element-c55f6de {
+    position: absolute;
+    top: -2px;
+    left: -10px;
+    width: auto;
+    height: 36px;
+    line-height: 36px;
+    font-weight: 500;
+    text-align: center;
+    border-top-left-radius: 3px;
+    font-size: 17px;
+    z-inex: 999;
+}
+
+.elementor-44033 .elementor-element.elementor-element-c55f6de:before {
+    content: "";
+    position: absolute;
+    left: 0px;
+    bottom: -10px;
+    border-right: 10px solid #333;
+    border-bottom: 10px solid transparent;
+}
+
+.elementor-44033 .elementor-element.elementor-element-c55f6de:after {
+    content: "";
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    border-right: 9px solid #fff;
+    border-top: 16px solid transparent;
+    border-bottom: 16px solid transparent;
+}
+
+/* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-be80b40 */
+.elementor-44033 .elementor-element.elementor-element-be80b40 {
+    display: none;
+}
+
+/* End custom CSS */
+/* Start custom CSS for button, class: .elementor-element-93d7462 */
+.elementor-44033 .elementor-element.elementor-element-93d7462 a {
+    width: 100%;
+}
+
+/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-90eb9f0 */
+.elementor-44033 .elementor-element.elementor-element-90eb9f0 p {
+    margin: 0px;
+}
+
+/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-d6b9b9d */
+.elementor-44033 .elementor-element.elementor-element-d6b9b9d p {
+    margin: 0px;
+}
+
+/* End custom CSS */
+/* Start custom CSS for html, class: .elementor-element-6b2770f */
+.stars {
+    margin-bottom: 10px;
+}
+
+.stars i {
+    color: #ccc;
+    transition: all 0s;
+    cursor: pointer;
+    margin-right: 5px;
+    font-size: 20px;
+}
+
+.starsel input[type=button] {
+    padding: 5px;
+    font-size: 12px;
+    margin-top: 2px;
+    margin-left: 10px;
+    background: green;
+    transition: all 0.5s;
+}
+
+/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-77878dc */
+.elementor-44033 .elementor-element.elementor-element-77878dc ul:not(.elementor-editor-element-settings) {
+    list-style: none;
+    margin: 0px;
+    color: #333;
+}
+
+.elementor-44033 .elementor-element.elementor-element-77878dc ul:not(.elementor-editor-element-settings) li {
+    background-image: url('../img/tick.webp');
+    background-position: 0px 1px;
+    background-size: 20px;
+    background-repeat: no-repeat;
+    padding-left: 25px;
+    line-height: 20px;
+    margin-bottom: 10px;
+}
+
+.elementor-44033 .elementor-element.elementor-element-77878dc ul li.cross {
+    background-image: url('../img/cross.webp');
+    background-size: 24px;
+    background-position: -2px -1px;
+}
+
+/* End custom CSS */
+/* Start custom CSS */
+body.elementor-page-44033 {
+    font-family: work sans;
+}
+
+s {
+    color: red;
+    font-weight: normal;
+    display: none;
+}
+
+/* End custom CSS */
